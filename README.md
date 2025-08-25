@@ -2,7 +2,7 @@
 
 ## Set up & Installation.
 
-### 1 .Clone/Fork the git repo and create a virtual environment 
+### 1. Clone/Fork the git repo and create a virtual environment 
                     
 **Windows**
           
@@ -21,7 +21,7 @@ cd Flask-Docker-App
 python3 -m venv venv
 
 ```
-### 2 .Activate the environment
+### 2. Activate the environment
           
 **Windows** 
 
@@ -34,7 +34,7 @@ or
 ```source venv/bin/activate```
 
 
-### 3 .Install the requirements
+### 3. Install the requirements
 
 Applies for windows/macOS/Linux
 
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 or
 ```source venv/bin/activate```
 
-### 3 .Install Flask
+### 3. Install Flask
 
 `pip install Flask`
 
